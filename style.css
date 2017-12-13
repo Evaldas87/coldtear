@@ -114,6 +114,13 @@ footer a {
 		display: block;
 	}
 
+	.newsletter, .contact {
+		margin: 0;
+		display: block;
+		float: left;
+		font-size: 2.2em;
+	}
+
 	nav ul li {
 		display: block;
 		padding: 10px;
