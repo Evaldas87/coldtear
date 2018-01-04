@@ -116,7 +116,11 @@ footer a {
 	display: inline-block;
 	float: right;
 	margin-right: 20%;
+}
 
+.newsletterwrap, #mc_embed_signup, #mc_embed_signup_scroll, .mc-field-group, .clear {
+	margin: 0;
+	padding: 0;
 }
 
 .contact {
@@ -133,10 +137,22 @@ footer a {
 	display: flex;
 }
 
-.clear {
-	margin: 0;
-	padding: 0;
+#mce-EMAIL {
+	padding: 5px;
+	font-family: Calibri;
+	width: 180px;
 }
+
+#mc-embedded-subscribe {
+	padding: 5px;
+	font-family: Calibri;
+	padding: 7px 15px 7px 15px;
+	margin: 0 0 0 5px;
+	border: none;
+}
+
+
+
 
 
 @media only screen and (max-width: 1280px) {
