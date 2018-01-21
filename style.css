@@ -224,11 +224,15 @@ h1 {
 		display: block;
 	}
 
+	.release {
+		display: inline-block;
+	}
+
 	.newsletter, .contact {
 		margin: 0;
 		display: block;
 		float: left;
-		font-size: 2.2em;
+		font-size: 2em;
 	}
 
 	nav ul li {
