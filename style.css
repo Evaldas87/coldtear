@@ -221,7 +221,7 @@ h1 {
 	iframe {
 		width: 250px;
 		height: 250px;
-		display: block;
+	/*	display: flex;*/
 	}
 
 	.newsletter, .contact {
@@ -238,7 +238,7 @@ h1 {
 
 	@media only screen and (max-width: 1280px) and (orientation: landscape) {
 		nav ul li {
-			display: inline;
+			display: inline-block;
 			/*font-size: 2em;*/
 		}
 	}
