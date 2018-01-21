@@ -212,7 +212,7 @@ h1 {
 
 
 
-/*@media only screen and (max-width: 1280px) {
+@media only screen and (max-width: 1280px) {
 	.container { 
 		display: block;
 		width: 95%;
@@ -224,28 +224,28 @@ h1 {
 		display: block;
 	}
 
-	.release {
+	/*.release {
 		display: inline-block;
-	}
+	}*/
 
-	.newsletter, .contact {
+	/*.newsletter, .contact {
 		margin: 0;
 		display: block;
 		float: left;
 		font-size: 2em;
-	}
+	}*/
 
-	nav ul li {
+	/*nav ul li {
 		display: block;
 		padding: 10px;
 		font-size: 4em;
-	}
+	}*/
 
-	@media only screen and (max-width: 1280px) and (orientation: landscape) {
+	/*@media only screen and (max-width: 1280px) and (orientation: landscape) {
 		nav ul li {
 			display: inline;
 			font-size: 2em;
 		}
-	}
+	}*/
 
-}*/
+}
