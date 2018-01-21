@@ -242,6 +242,10 @@ h1 {
 			padding: 10px;
 			font-size: 1em;
 		}
+		nav ul {
+			padding-top: 10px;
+			padding-bottom: 10px;
+	    }
 	}
 
 }
