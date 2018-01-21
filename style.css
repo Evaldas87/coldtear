@@ -218,22 +218,17 @@ h1 {
 		width: 95%;
 	}
 
-	iframe {
+	/*iframe {
 		width: 700px;
 		height: 700px;
 		display: block;
-	}
-
-	/*.release {
-		display: inline-block;
 	}*/
 
-	/*.newsletter, .contact {
+	.newsletter, .contact {
 		margin: 0;
 		display: block;
 		float: left;
-		font-size: 2em;
-	}*/
+	}
 
 	/*nav ul li {
 		display: block;
